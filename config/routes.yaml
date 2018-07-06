@@ -1,0 +1,3 @@
+index:
+    path: /
+    controller: Hmarinjr\Symfony4\Controller\DefaultController::index
